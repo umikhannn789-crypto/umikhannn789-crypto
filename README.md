@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umama Khan</h1>
 
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
 I am a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.  
@@ -14,7 +14,6 @@ Currently focused on improving my skills in scalable web development and creatin
 
 * 💻 I build full stack web applications (Frontend + Backend)
 * 🌱 Currently improving my skills in **MERN Stack**
-* ⚡ I enjoy solving real-world problems with code
 * 🎯 Goal: Become a professional software engineer
 
 ---
@@ -45,18 +44,3 @@ Currently focused on improving my skills in scalable web development and creatin
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umikhannn789-crypto&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umikhannn789-crypto&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=umikhannn789-crypto" />
-</p>
